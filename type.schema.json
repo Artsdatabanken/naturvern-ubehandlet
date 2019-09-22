@@ -1,0 +1,59 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "kode": {
+            "type": "string"
+          },
+          "navn": {
+            "type": "object",
+            "properties": {
+              "nob": {
+                "type": "string"
+              },
+              "eng": {
+                "type": "string"
+              }
+            }
+          },
+          "ingress": {
+            "type": "object",
+            "properties": {
+              "nb": {
+                "type": "string"
+              }
+            }
+          },
+          "infoUrl": {
+            "type": "string"
+          },
+          "sortering": {
+            "type": "number"
+          },
+          "definisjon": {
+            "type": "string"
+          },
+          "type": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "kode",
+          "navn",
+          "ingress",
+          "infoUrl",
+          "definisjon",
+          "type"
+        ]
+      }
+    }
+  }
+}
