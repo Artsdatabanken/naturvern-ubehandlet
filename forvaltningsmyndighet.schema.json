@@ -16,10 +16,10 @@
           "kodeautor": {
             "type": "number"
           },
-          "tittel": {
+          "navn": {
             "type": "object",
             "properties": {
-              "nb": {
+              "nob": {
                 "type": "string"
               }
             }
@@ -28,7 +28,7 @@
         "required": [
           "kode",
           "kodeautor",
-          "tittel"
+          "navn"
         ]
       }
     }
