@@ -4,50 +4,50 @@
     {
       "kodeautor": "1",
       "kode": "VV-VP-NP",
-      "navn": {
+      "tittel": {
         "nob": "Verneplan for nasjonalparker og andre større verneområder"
       }
     },
     {
       "kodeautor": "2",
       "kode": "VV-VP-VV",
-      "navn": { "nob": "Verneplan for våtmark" }
+      "tittel": { "nob": "Verneplan for våtmark" }
     },
     {
       "kodeautor": "3",
       "kode": "VV-VP-VM",
-      "navn": { "nob": "Verneplan for myr" }
+      "tittel": { "nob": "Verneplan for myr" }
     },
     {
       "kodeautor": "4",
       "kode": "VV-VP-RL",
-      "navn": { "nob": "Verneplan for edelløvskog/rike løvskoger" }
+      "tittel": { "nob": "Verneplan for edelløvskog/rike løvskoger" }
     },
     {
       "kodeautor": "5",
       "kode": "VV-VP-SF",
-      "navn": { "nob": "Verneplan for sjøfugl" }
+      "tittel": { "nob": "Verneplan for sjøfugl" }
     },
-    { "kodeautor": "6", "kode": "VV-VP-SV", "navn": { "nob": "Skogvern" } },
+    { "kodeautor": "6", "kode": "VV-VP-SV", "tittel": { "nob": "Skogvern" } },
     {
       "kodeautor": "7",
       "kode": "VV-VP-MV",
-      "navn": { "nob": "Marin verneplan" }
+      "tittel": { "nob": "Marin verneplan" }
     },
     {
       "kodeautor": "8",
       "kode": "VV-VP-AV",
-      "navn": { "nob": "Annet vern eller verneplan" }
+      "tittel": { "nob": "Annet vern eller verneplan" }
     },
     {
       "kodeautor": "9",
       "kode": "VV-VP-IV",
-      "navn": { "nob": "Ikke vurdert" }
+      "tittel": { "nob": "Ikke vurdert" }
     },
     {
       "kodeautor": "10",
       "kode": "VV-VP-KG",
-      "navn": { "nob": "Kvartærgeologi" }
+      "tittel": { "nob": "Kvartærgeologi" }
     }
   ]
 }

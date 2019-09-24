@@ -4,140 +4,140 @@
     {
       "kode": "VV-VF-NR",
       "kodeautor": "NR",
-      "navn": {
+      "tittel": {
         "nob": "Naturreservat"
       }
     },
     {
       "kode": "VV-VF-NP",
       "kodeautor": "NP",
-      "navn": {
+      "tittel": {
         "nob": "Nasjonalpark"
       }
     },
     {
       "kode": "VV-VF-LVO",
       "kodeautor": "LVO",
-      "navn": {
+      "tittel": {
         "nob": "Landskapsvernområde"
       }
     },
     {
       "kode": "VV-VF-D",
       "kodeautor": "D",
-      "navn": {
+      "tittel": {
         "nob": "Dyrelivsfredning"
       }
     },
     {
       "kode": "VV-VF-PD",
       "kodeautor": "PD",
-      "navn": {
+      "tittel": {
         "nob": "Plante- og dyrelivsfredning"
       }
     },
     {
       "kode": "VV-VF-NM",
       "kodeautor": "NM",
-      "navn": {
+      "tittel": {
         "nob": "Naturminne"
       }
     },
     {
       "kode": "VV-VF-LVOP",
       "kodeautor": "LVOP",
-      "navn": {
+      "tittel": {
         "nob": "Landskapsvernområde med plantelivsfredning"
       }
     },
     {
       "kode": "VV-VF-DO",
       "kodeautor": "DO",
-      "navn": {
+      "tittel": {
         "nob": "Dyrefredningsområde"
       }
     },
     {
       "kode": "VV-VF-LVOD",
       "kodeautor": "LVOD",
-      "navn": {
+      "tittel": {
         "nob": "Landskapsvernområde med dyrelivsfredning"
       }
     },
     {
       "kode": "VV-VF-PO",
       "kodeautor": "PO",
-      "navn": {
+      "tittel": {
         "nob": "Plantefredningsområde"
       }
     },
     {
       "kode": "VV-VF-LVODP",
       "kodeautor": "LVODP",
-      "navn": {
+      "tittel": {
         "nob": "Landskapsvernområde med plante- og dyrelivsfredning"
       }
     },
     {
       "kode": "VV-VF-PDO",
       "kodeautor": "PDO",
-      "navn": {
+      "tittel": {
         "nob": "Plante- og dyrefredningsområde"
       }
     },
     {
       "kode": "VV-VF-MIV",
       "kodeautor": "MIV",
-      "navn": {
+      "tittel": {
         "nob": "Midlertidig verna område/objekt"
       }
     },
     {
       "kode": "VV-VF-P",
       "kodeautor": "P",
-      "navn": {
+      "tittel": {
         "nob": "Plantelivsfredning"
       }
     },
     {
       "kode": "VV-VF-BVV",
       "kodeautor": "BVV",
-      "navn": {
+      "tittel": {
         "nob": "Biotopvern etter viltloven"
       }
     },
     {
       "kode": "VV-VF-NRS",
       "kodeautor": "NRS",
-      "navn": {
+      "tittel": {
         "nob": "Naturreservat (Svalbardmiljøloven)"
       }
     },
     {
       "kode": "VV-VF-NPS",
       "kodeautor": "NPS",
-      "navn": {
+      "tittel": {
         "nob": "Nasjonalpark (Svalbardmiljøloven)"
       }
     },
     {
       "kode": "VV-VF-GVS",
       "kodeautor": "GVS",
-      "navn": {
+      "tittel": {
         "nob": "Geotopvern (Svalbardmiljøloven)"
       }
     },
     {
       "kode": "VV-VF-MAV",
       "kodeautor": "MAV",
-      "navn": {
+      "tittel": {
         "nob": "Marint verneområde (naturmangfoldloven)"
       }
     },
     {
       "kode": "VV-VF-BV",
       "kodeautor": "BV",
-      "navn": {
+      "tittel": {
         "nob": "Biotopvern"
       }
     }
