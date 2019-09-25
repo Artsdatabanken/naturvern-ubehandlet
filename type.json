@@ -1,6 +1,7 @@
 {
   "VV": {
     "tittel": { "nb": "Naturvernområde" },
+    "foreldre": [],
     "farge": "hsl(60, 20%, 60%)"
   },
   "VV-VF-NR": { "farge": "hsl(1, 70%, 60%)" },
