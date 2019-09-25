@@ -4,9 +4,9 @@
     "foreldre": [],
     "farge": "hsl(60, 20%, 60%)"
   },
-  "VV-VF-NR": { "farge": "hsl(1, 70%, 60%)" },
-  "VV-VF-NP": { "farge": "hsl(114, 70%, 60%)" },
-  "VV-VF-LVO": { "farge": "hsl(114, 70%, 80%)" },
-  "VV-VF-PDO": { "farge": "hsl(40, 70%, 80%)" },
-  "VV-VF-MAV": { "farge": "hsl(29, 70%, 60%)" }
+  "VV-VF-NR": { "farge": "hsl(1, 70%, 60%)", "foreldre": ["VV"] },
+  "VV-VF-NP": { "farge": "hsl(114, 70%, 60%)", "foreldre": ["VV"] },
+  "VV-VF-LVO": { "farge": "hsl(114, 70%, 80%)", "foreldre": ["VV"] },
+  "VV-VF-PDO": { "farge": "hsl(40, 70%, 80%)", "foreldre": ["VV"] },
+  "VV-VF-MAV": { "farge": "hsl(29, 70%, 60%)", "foreldre": ["VV"] }
 }
