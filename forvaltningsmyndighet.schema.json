@@ -16,7 +16,7 @@
           "kodeautor": {
             "type": "number"
           },
-          "navn": {
+          "tittel": {
             "type": "object",
             "properties": {
               "nob": {
@@ -25,11 +25,7 @@
             }
           }
         },
-        "required": [
-          "kode",
-          "kodeautor",
-          "navn"
-        ]
+        "required": ["kode", "kodeautor", "navn"]
       }
     }
   }

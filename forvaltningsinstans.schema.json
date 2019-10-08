@@ -10,7 +10,7 @@
           "kode": {
             "type": "string"
           },
-          "navn": {
+          "tittel": {
             "type": "object",
             "properties": {
               "nor": {
@@ -19,10 +19,7 @@
             }
           }
         },
-        "required": [
-          "kode",
-          "navn"
-        ]
+        "required": ["kode", "navn"]
       }
     },
     "meta": {

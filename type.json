@@ -4,6 +4,26 @@
     "foreldre": [],
     "farge": "hsl(60, 20%, 60%)"
   },
+  "VV-PA": {
+    "farge": "hsl(0, 90%, 60%)",
+    "foreldre": ["VV"],
+    "tittel": { "nob": "IUCN kategori", "url": "IUCN" }
+  },
+  "VV-FM": {
+    "farge": "hsl(210, 20%, 60%)",
+    "foreldre": ["VV"],
+    "tittel": { "nob": "Forvaltnignsmyndighet" }
+  },
+  "VV-VP": {
+    "farge": "hsl(210, 20%, 60%)",
+    "foreldre": ["VV"],
+    "tittel": { "nob": "Verneplan" }
+  },
+  "VV-TV": {
+    "farge": "hsl(210, 20%, 60%)",
+    "foreldre": ["VV"],
+    "tittel": { "nob": "Truet vurdering" }
+  },
   "VV-VF-NR": { "farge": "hsl(1, 70%, 60%)", "foreldre": ["VV"] },
   "VV-VF-NP": { "farge": "hsl(114, 70%, 60%)", "foreldre": ["VV"] },
   "VV-VF-LVO": { "farge": "hsl(114, 70%, 80%)", "foreldre": ["VV"] },
