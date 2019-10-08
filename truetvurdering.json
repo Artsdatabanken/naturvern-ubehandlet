@@ -3,21 +3,21 @@
   "items": [
     {
       "kode": "VV-TV-IT",
-      "kodeautor": 2,
+      "kodeautor": "IkkeTruet",
       "navn": {
         "nob": "Ikke truet"
       }
     },
     {
       "kode": "VV-TV-U",
-      "kodeautor": 3,
+      "kodeautor": "Ukjent",
       "navn": {
-        "nob": "Truet vurdering: Ukjent"
+        "nob": "Ukjent"
       }
     },
     {
       "kode": "VV-TV-T",
-      "kodeautor": 1,
+      "kodeautor": "Truet",
       "navn": {
         "nob": "Truet"
       }
@@ -26,12 +26,12 @@
       "kode": "VV-TV-N",
       "kodeautor": "undefined",
       "navn": {
-        "nob": "Truet vurdering: Null"
+        "nob": "Null"
       }
     },
     {
       "kode": "VV-TV-IV",
-      "kodeautor": 4,
+      "kodeautor": "IkkeVurdert",
       "navn": {
         "nob": "Ikke vurdert"
       }

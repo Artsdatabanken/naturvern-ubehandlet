@@ -2,50 +2,54 @@
   "$schema": "https://raw.githubusercontent.com/Artsdatabanken/naturvern-data/master/verneplan.schema.json#",
   "items": [
     {
-      "kodeautor": "1",
+      "kodeautor": "VerneplanNasjonalpark",
       "kode": "VV-VP-NP",
       "tittel": {
         "nob": "Verneplan for nasjonalparker og andre større verneområder"
       }
     },
     {
-      "kodeautor": "2",
+      "kodeautor": "VerneplanVatmark",
       "kode": "VV-VP-VV",
       "tittel": { "nob": "Verneplan for våtmark" }
     },
     {
-      "kodeautor": "3",
+      "kodeautor": "VerneplanMyr",
       "kode": "VV-VP-VM",
       "tittel": { "nob": "Verneplan for myr" }
     },
     {
-      "kodeautor": "4",
+      "kodeautor": "VerneplanLoevskog",
       "kode": "VV-VP-RL",
       "tittel": { "nob": "Verneplan for edelløvskog/rike løvskoger" }
     },
     {
-      "kodeautor": "5",
+      "kodeautor": "VerneplanSjoefugl",
       "kode": "VV-VP-SF",
       "tittel": { "nob": "Verneplan for sjøfugl" }
     },
-    { "kodeautor": "6", "kode": "VV-VP-SV", "tittel": { "nob": "Skogvern" } },
     {
-      "kodeautor": "7",
+      "kodeautor": "Skogvern",
+      "kode": "VV-VP-SV",
+      "tittel": { "nob": "Skogvern" }
+    },
+    {
+      "kodeautor": "MarinVerneplan",
       "kode": "VV-VP-MV",
       "tittel": { "nob": "Marin verneplan" }
     },
     {
-      "kodeautor": "8",
+      "kodeautor": "AnnetVern",
       "kode": "VV-VP-AV",
       "tittel": { "nob": "Annet vern eller verneplan" }
     },
     {
-      "kodeautor": "9",
+      "kodeautor": "IkkeVurdert",
       "kode": "VV-VP-IV",
       "tittel": { "nob": "Ikke vurdert" }
     },
     {
-      "kodeautor": "10",
+      "kodeautor": "Kvartaergeologi",
       "kode": "VV-VP-KG",
       "tittel": { "nob": "Kvartærgeologi" }
     }

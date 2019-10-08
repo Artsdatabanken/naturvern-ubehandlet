@@ -3,7 +3,7 @@
   "items": [
     {
       "kode": "VV-PA-IA",
-      "kodeautor": 1,
+      "kodeautor": "IUCN_IA",
       "navn": {
         "nob": "Vern med tanke på vitenskapelige undersøkelser og/eller miljøovervåking",
         "eng": "Strict Nature Reserve"
@@ -15,7 +15,7 @@
     },
     {
       "kode": "VV-PA-II",
-      "kodeautor": 3,
+      "kodeautor": "IUCN_II",
       "navn": {
         "nob": "Vern av økosystemer og friluftsliv",
         "eng": "National Park"
@@ -27,7 +27,7 @@
     },
     {
       "kode": "VV-PA-V",
-      "kodeautor": 6,
+      "kodeautor": "IUCN_V",
       "navn": {
         "nob": "Landskapsvern og friluftsliv - Landskapsvernområde",
         "eng": "Protected Landscape/ Seascape"
@@ -39,7 +39,7 @@
     },
     {
       "kode": "VV-PA-III",
-      "kodeautor": 4,
+      "kodeautor": "IUCN_III",
       "navn": {
         "nob": "Vern av naturlige attraksjoner",
         "eng": "Natural Monument or Feature"
@@ -51,7 +51,7 @@
     },
     {
       "kode": "VV-PA-IV",
-      "kodeautor": 5,
+      "kodeautor": "IUCN_IV",
       "navn": {
         "nob": "Vern gjennom aktiv forvaltning - Artsfredningsområder etc",
         "eng": "Habitat/Species Management Area"
@@ -63,7 +63,7 @@
     },
     {
       "kode": "VV-PA-IB",
-      "kodeautor": 2,
+      "kodeautor": "IUCN_IB",
       "navn": {
         "nob": "Vern for å beskytte den opprinnelige miljløtilstanden og/eller villmarksområder",
         "eng": "Wilderness Area"
