@@ -3,143 +3,260 @@
   "items": [
     {
       "kode": "VV-VF-NR",
-      "kodeautor": "NR",
+      "kodeautor": "Naturreservat",
       "tittel": {
         "nob": "Naturreservat"
-      }
+      },
+      "ingress": {
+        "nob": "Et naturreservat er en type områdevern hvor det normalt er én spesiell type dyrebestand, natur- eller landskapsform som er vernet. Naturreservat er en streng verneform, og utbredt i store deler av verden."
+      },
+      "infoUrl": "https://no.wikipedia.org/wiki/Naturreservat"
+    },
+    {
+      "kode": "VV-VF-AV",
+      "tittel": {
+        "nob": "Annet vern"
+      },
+      "ingress": {
+        "nob": "Mange verneområder er opprettet for å beskytte leveområdet til bestemte dyrearter eller planter. Da regnes arealet ofte for å være et økologisk funksjonsområde for en eller flere arter.  I tidligere lovverk ble det brukt enda flere verneformer, som naturminner, flere typer av biotopvern og artsfredninger. Ved eventuelle revisjoner av verneforskriftene vil de bli vedtatt etter naturmangfoldloven og tilpasset verneformer som gjelder i dag."
+      },
+      "infoUrl": "https://www.miljodirektoratet.no/ansvarsomrader/vernet-natur/norges-verneomrader/"
+    },
+    {
+      "kode": "VV-VF-AV-BV",
+      "tittel": {
+        "nob": "Biotopvern"
+      },
+      "ingress": {
+        "nob": "Biotopvern (også kjent som dyre-/fugle-/plantefredningsområde) er et områdevern (i Norge i henhold til lov om naturvern av 19. juni 1970, men internasjonalt kan dette variere).  Hensikten med biotopvern er å sikre områder som har vesentlig betydning for planter eller dyr som blir fredet i medhold av samme bestemmelser som artsfredning. Dette skjer gjennom å forby utbygging, anlegg, forurensninger og andre inngrep for å bevare livsmiljøt i fredningsområdet. Biotopvernet som har et arts-formål skiller seg normalt fra generelt artsvern ved at biotopvernet sikter inn mot biotopene i et helt avgrenset, geografisk område."
+      },
+      "infoUrl": "https://no.wikipedia.org/wiki/Biotopvern"
     },
     {
       "kode": "VV-VF-NP",
-      "kodeautor": "NP",
+      "kodeautor": "Nasjonalpark",
       "tittel": {
         "nob": "Nasjonalpark"
-      }
+      },
+      "ingress": {
+        "nob": "En nasjonalpark er et større områdevern som en stat iverksetter for å ta vare på viktige naturverdier. Nasjonalparkene skal først og fremst begrense menneskelig virksomhet og utbygging, som en tilrettelegging for friluftsliv og ikke-motorisert ferdsel. Innenfor en nasjonalpark kan det derimot finnes delområder med strengere områdevern, for eksempel ett eller flere naturreservater, biotopvernområder eller naturminner. Jakt, camping og friluftsliv er som regel tillatt på bestemte vilkår i en nasjonalpark, men generelt gjelder det at man ikke skal forstyrre dyrelivet der unødig."
+      },
+      "infoUrl": "https://no.wikipedia.org/wiki/Nasjonalpark"
     },
     {
       "kode": "VV-VF-LVO",
-      "kodeautor": "LVO",
+      "kodeautor": "Landskapsvernomraade",
       "tittel": {
         "nob": "Landskapsvernområde"
-      }
+      },
+      "ingress": {
+        "nob": "Landskapsvernområde er områdevern av offentlig eller privat grunn som iverksettes i medhold av naturvernloven. Et landskapsvernområde er den minst strenge formen for områdevern, nest etter naturreservat og nasjonalparker. Landskapsvernområdene har generelt større kulturpåvirkning enn nasjonalparkene. Landskapsvernområde omfatter egenartede natur- eller kulturlandskap og brukes blant annet for å ta vare på kulturlandskap i aktiv bruk. I landskapsvernområder skal alle kulturminner som preger eller har betydning for landskapet tas vare på."
+      },
+      "infoUrl": "https://no.wikipedia.org/wiki/Landskapsvernområde"
     },
     {
-      "kode": "VV-VF-D",
-      "kodeautor": "D",
+      "kode": "VV-VF-LVO-BV",
+      "kodeautor": "LandskapsvernomraadeBiotopvern",
+      "tittel": {
+        "nob": "Landskapsvernområde med biotopvern",
+        "url": "Biotopvern"
+      },
+      "ingress": {
+        "nob": "Landskapsvernområde er områdevern av offentlig eller privat grunn som iverksettes i medhold av naturvernloven. Et landskapsvernområde er den minst strenge formen for områdevern, nest etter naturreservat og nasjonalparker. Landskapsvernområdene har generelt større kulturpåvirkning enn nasjonalparkene. Landskapsvernområde omfatter egenartede natur- eller kulturlandskap og brukes blant annet for å ta vare på kulturlandskap i aktiv bruk. I landskapsvernområder skal alle kulturminner som preger eller har betydning for landskapet tas vare på."
+      },
+      "infoUrl": "https://no.wikipedia.org/wiki/Landskapsvernområde"
+    },
+    {
+      "kode": "VV-VF-LVO-D",
+      "kodeautor": "Dyrelivsfredning",
       "tittel": {
         "nob": "Dyrelivsfredning"
-      }
+      },
+      "ingress": {
+        "nob": "Landskapsvernområde er områdevern av offentlig eller privat grunn som iverksettes i medhold av naturvernloven. Et landskapsvernområde er den minst strenge formen for områdevern, nest etter naturreservat og nasjonalparker. Landskapsvernområdene har generelt større kulturpåvirkning enn nasjonalparkene. Landskapsvernområde omfatter egenartede natur- eller kulturlandskap og brukes blant annet for å ta vare på kulturlandskap i aktiv bruk. I landskapsvernområder skal alle kulturminner som preger eller har betydning for landskapet tas vare på."
+      },
+      "infoUrl": "https://no.wikipedia.org/wiki/Landskapsvernområde"
     },
     {
-      "kode": "VV-VF-PD",
-      "kodeautor": "PD",
-      "tittel": {
-        "nob": "Plante- og dyrelivsfredning"
-      }
-    },
-    {
-      "kode": "VV-VF-NM",
-      "kodeautor": "NM",
+      "kode": "VV-VF-AV-NM",
+      "kodeautor": "Naturminne",
       "tittel": {
         "nob": "Naturminne"
-      }
+      },
+      "ingress": {
+        "nob": "Naturminner er en av de eldste formene for naturvern i Norge. Ifølge Miljøverndepartementet gjenspeiler naturminner «forrige århundreskiftes syn på naturen», gjennom sin vekt på «forekomster» av ulike slag.  Et typisk eksempel på et biologisk naturminne er et enkeltstående eller flere trær, for eksempel som Ask gods naturminne i Ringerike kommune. Der ble ett eiketre og to furutrær, som står på Ask gods grunn, fredet som et naturminne den 26. februar i 1954. Et eksempel på et geologisk naturminne er Bjerkøya naturminne i Asker kommune."
+      },
+      "infoUrl": "https://no.wikipedia.org/wiki/Naturminne"
     },
     {
-      "kode": "VV-VF-LVOP",
-      "kodeautor": "LVOP",
+      "kode": "VV-VF-LVO-P",
+      "kodeautor": "LandskapsvernomraadePlantelivsfredning",
       "tittel": {
-        "nob": "Landskapsvernområde med plantelivsfredning"
-      }
+        "nob": "Landskapsvernområde med plantelivsfredning",
+        "url": "Plantelivsfredning"
+      },
+      "ingress": {
+        "nob": "Landskapsvernområde er områdevern av offentlig eller privat grunn som iverksettes i medhold av naturvernloven. Et landskapsvernområde er den minst strenge formen for områdevern, nest etter naturreservat og nasjonalparker. Landskapsvernområdene har generelt større kulturpåvirkning enn nasjonalparkene. Landskapsvernområde omfatter egenartede natur- eller kulturlandskap og brukes blant annet for å ta vare på kulturlandskap i aktiv bruk. I landskapsvernområder skal alle kulturminner som preger eller har betydning for landskapet tas vare på."
+      },
+      "infoUrl": "https://no.wikipedia.org/wiki/Landskapsvernområde"
     },
     {
-      "kode": "VV-VF-DO",
-      "kodeautor": "DO",
+      "kode": "VV-VF-AV-BV-DO",
+      "kodeautor": "Dyrefredningsomrade",
       "tittel": {
         "nob": "Dyrefredningsområde"
-      }
+      },
+      "ingress": {
+        "nob": "Biotopvern (også kjent som dyre-/fugle-/plantefredningsområde) er et områdevern (i Norge i henhold til lov om naturvern av 19. juni 1970, men internasjonalt kan dette variere).  Hensikten med biotopvern er å sikre områder som har vesentlig betydning for planter eller dyr som blir fredet i medhold av samme bestemmelser som artsfredning. Dette skjer gjennom å forby utbygging, anlegg, forurensninger og andre inngrep for å bevare livsmiljøt i fredningsområdet. Biotopvernet som har et arts-formål skiller seg normalt fra generelt artsvern ved at biotopvernet sikter inn mot biotopene i et helt avgrenset, geografisk område."
+      },
+      "infoUrl": "https://no.wikipedia.org/wiki/Biotopvern"
     },
     {
-      "kode": "VV-VF-LVOD",
-      "kodeautor": "LVOD",
+      "kode": "VV-VF-LVO-D",
+      "kodeautor": "LandskapsvernomraadeDyrelivsfredning",
       "tittel": {
-        "nob": "Landskapsvernområde med dyrelivsfredning"
-      }
+        "nob": "Landskapsvernområde med dyrelivsfredning",
+        "url": "Dyrelivsfredning"
+      },
+      "ingress": {
+        "nob": "Landskapsvernområde er områdevern av offentlig eller privat grunn som iverksettes i medhold av naturvernloven. Et landskapsvernområde er den minst strenge formen for områdevern, nest etter naturreservat og nasjonalparker. Landskapsvernområdene har generelt større kulturpåvirkning enn nasjonalparkene. Landskapsvernområde omfatter egenartede natur- eller kulturlandskap og brukes blant annet for å ta vare på kulturlandskap i aktiv bruk. I landskapsvernområder skal alle kulturminner som preger eller har betydning for landskapet tas vare på."
+      },
+      "infoUrl": "https://no.wikipedia.org/wiki/Landskapsvernområde"
     },
     {
-      "kode": "VV-VF-PO",
-      "kodeautor": "PO",
+      "kode": "VV-VF-AV-BV-PO",
+      "kodeautor": "Plantefredningsomraade",
       "tittel": {
         "nob": "Plantefredningsområde"
-      }
+      },
+      "ingress": {
+        "nob": "Biotopvern (også kjent som dyre-/fugle-/plantefredningsområde) er et områdevern (i Norge i henhold til lov om naturvern av 19. juni 1970, men internasjonalt kan dette variere).  Hensikten med biotopvern er å sikre områder som har vesentlig betydning for planter eller dyr som blir fredet i medhold av samme bestemmelser som artsfredning. Dette skjer gjennom å forby utbygging, anlegg, forurensninger og andre inngrep for å bevare livsmiljøt i fredningsområdet. Biotopvernet som har et arts-formål skiller seg normalt fra generelt artsvern ved at biotopvernet sikter inn mot biotopene i et helt avgrenset, geografisk område."
+      },
+      "infoUrl": "https://no.wikipedia.org/wiki/Biotopvern"
     },
     {
-      "kode": "VV-VF-LVODP",
-      "kodeautor": "LVODP",
+      "kode": "VV-VF-AV-BV-PD",
+      "kodeautor": "PlanteOgDyrelivsfredning",
       "tittel": {
-        "nob": "Landskapsvernområde med plante- og dyrelivsfredning"
-      }
+        "nob": "Plante- og dyrelivsfredning"
+      },
+      "ingress": {
+        "nob": "Landskapsvernområde er områdevern av offentlig eller privat grunn som iverksettes i medhold av naturvernloven. Et landskapsvernområde er den minst strenge formen for områdevern, nest etter naturreservat og nasjonalparker. Landskapsvernområdene har generelt større kulturpåvirkning enn nasjonalparkene. Landskapsvernområde omfatter egenartede natur- eller kulturlandskap og brukes blant annet for å ta vare på kulturlandskap i aktiv bruk. I landskapsvernområder skal alle kulturminner som preger eller har betydning for landskapet tas vare på."
+      },
+      "infoUrl": "https://no.wikipedia.org/wiki/Landskapsvernområde"
     },
     {
-      "kode": "VV-VF-PDO",
-      "kodeautor": "PDO",
+      "kode": "VV-VF-LVO-DP",
+      "kodeautor": "LandskapsvernomraadePlanteOgDyrelivsfredning",
+      "tittel": {
+        "nob": "Landskapsvernområde med plante- og dyrelivsfredning",
+        "url": "Plante- og dyrelivsfredning"
+      },
+      "ingress": {
+        "nob": "Landskapsvernområde er områdevern av offentlig eller privat grunn som iverksettes i medhold av naturvernloven. Et landskapsvernområde er den minst strenge formen for områdevern, nest etter naturreservat og nasjonalparker. Landskapsvernområdene har generelt større kulturpåvirkning enn nasjonalparkene. Landskapsvernområde omfatter egenartede natur- eller kulturlandskap og brukes blant annet for å ta vare på kulturlandskap i aktiv bruk. I landskapsvernområder skal alle kulturminner som preger eller har betydning for landskapet tas vare på."
+      },
+      "infoUrl": "https://no.wikipedia.org/wiki/Landskapsvernområde"
+    },
+    {
+      "kode": "VV-VF-AV-BV-PDO",
+      "kodeautor": "PlanteOgDyrefredningsomraade",
       "tittel": {
         "nob": "Plante- og dyrefredningsområde"
-      }
+      },
+      "ingress": {
+        "nob": "Biotopvern (også kjent som dyre-/fugle-/plantefredningsområde) er et områdevern (i Norge i henhold til lov om naturvern av 19. juni 1970, men internasjonalt kan dette variere).  Hensikten med biotopvern er å sikre områder som har vesentlig betydning for planter eller dyr som blir fredet i medhold av samme bestemmelser som artsfredning. Dette skjer gjennom å forby utbygging, anlegg, forurensninger og andre inngrep for å bevare livsmiljøt i fredningsområdet. Biotopvernet som har et arts-formål skiller seg normalt fra generelt artsvern ved at biotopvernet sikter inn mot biotopene i et helt avgrenset, geografisk område."
+      },
+      "infoUrl": "https://no.wikipedia.org/wiki/Biotopvern"
     },
     {
-      "kode": "VV-VF-MIV",
-      "kodeautor": "MIV",
+      "kode": "VV-VF-AV-MIV",
+      "kodeautor": "MidlertidigVernaOmraade",
       "tittel": {
-        "nob": "Midlertidig verna område/objekt"
+        "nob": "Midlertidig verna område/objekt",
+        "url": "Midlertidig"
       }
     },
     {
-      "kode": "VV-VF-P",
-      "kodeautor": "P",
+      "kode": "VV-VF-LVO-P",
+      "kodeautor": "Plantelivsfredning",
       "tittel": {
         "nob": "Plantelivsfredning"
-      }
+      },
+      "ingress": {
+        "nob": "Landskapsvernområde er områdevern av offentlig eller privat grunn som iverksettes i medhold av naturvernloven. Et landskapsvernområde er den minst strenge formen for områdevern, nest etter naturreservat og nasjonalparker. Landskapsvernområdene har generelt større kulturpåvirkning enn nasjonalparkene. Landskapsvernområde omfatter egenartede natur- eller kulturlandskap og brukes blant annet for å ta vare på kulturlandskap i aktiv bruk. I landskapsvernområder skal alle kulturminner som preger eller har betydning for landskapet tas vare på."
+      },
+      "infoUrl": "https://no.wikipedia.org/wiki/Landskapsvernområde"
     },
     {
-      "kode": "VV-VF-BVV",
-      "kodeautor": "BVV",
+      "kode": "VV-VF-AV-BV-V",
+      "kodeautor": "BiotopvernVilt",
       "tittel": {
-        "nob": "Biotopvern etter viltloven"
-      }
+        "nob": "Biotopvern etter viltloven",
+        "url": "Viltlov"
+      },
+      "ingress": {
+        "nob": "Biotopvern (også kjent som dyre-/fugle-/plantefredningsområde) er et områdevern (i Norge i henhold til lov om naturvern av 19. juni 1970, men internasjonalt kan dette variere).  Hensikten med biotopvern er å sikre områder som har vesentlig betydning for planter eller dyr som blir fredet i medhold av samme bestemmelser som artsfredning. Dette skjer gjennom å forby utbygging, anlegg, forurensninger og andre inngrep for å bevare livsmiljøt i fredningsområdet. Biotopvernet som har et arts-formål skiller seg normalt fra generelt artsvern ved at biotopvernet sikter inn mot biotopene i et helt avgrenset, geografisk område."
+      },
+      "infoUrl": "https://no.wikipedia.org/wiki/Biotopvern"
     },
     {
-      "kode": "VV-VF-NRS",
-      "kodeautor": "NRS",
+      "kode": "VV-VF-NR-S",
+      "kodeautor": "NaturreservatSvalbard",
       "tittel": {
-        "nob": "Naturreservat (Svalbardmiljøloven)"
-      }
+        "nob": "Naturreservat (Svalbardmiljøloven)",
+        "url": "Svalbard"
+      },
+      "ingress": {
+        "nob": "En nasjonalpark er et større områdevern som en stat iverksetter for å ta vare på viktige naturverdier. Nasjonalparkene skal først og fremst begrense menneskelig virksomhet og utbygging, som en tilrettelegging for friluftsliv og ikke-motorisert ferdsel. Innenfor en nasjonalpark kan det derimot finnes delområder med strengere områdevern, for eksempel ett eller flere naturreservater, biotopvernområder eller naturminner. Jakt, camping og friluftsliv er som regel tillatt på bestemte vilkår i en nasjonalpark, men generelt gjelder det at man ikke skal forstyrre dyrelivet der unødig."
+      },
+      "infoUrl": "https://no.wikipedia.org/wiki/Nasjonalpark"
     },
     {
-      "kode": "VV-VF-NPS",
-      "kodeautor": "NPS",
+      "kode": "VV-VF-NP-S",
+      "kodeautor": "NasjonalparkSvalbard",
       "tittel": {
-        "nob": "Nasjonalpark (Svalbardmiljøloven)"
-      }
+        "nob": "Nasjonalpark (Svalbardmiljøloven)",
+        "url": "Svalbard"
+      },
+      "ingress": {
+        "nob": "En nasjonalpark er et større områdevern som en stat iverksetter for å ta vare på viktige naturverdier. Nasjonalparkene skal først og fremst begrense menneskelig virksomhet og utbygging, som en tilrettelegging for friluftsliv og ikke-motorisert ferdsel. Innenfor en nasjonalpark kan det derimot finnes delområder med strengere områdevern, for eksempel ett eller flere naturreservater, biotopvernområder eller naturminner. Jakt, camping og friluftsliv er som regel tillatt på bestemte vilkår i en nasjonalpark, men generelt gjelder det at man ikke skal forstyrre dyrelivet der unødig."
+      },
+      "infoUrl": "https://no.wikipedia.org/wiki/Nasjonalpark"
     },
     {
-      "kode": "VV-VF-GVS",
-      "kodeautor": "GVS",
+      "kode": "VV-VF-AV-GVS",
+      "kodeautor": "GeotopvernSvalbard",
       "tittel": {
-        "nob": "Geotopvern (Svalbardmiljøloven)"
-      }
+        "nob": "Geotopvern (Svalbardmiljøloven)",
+        "url": "Geotopvern"
+      },
+      "ingress": {
+        "nob": "Geotopvern eller et geotopvernområde er et naturvernområde som verner en geotop, et avgrenset område med definerte geologiske/geomorfologiske fenomener og prosesser.  En geotop eller et geotopvernområde kan omfatte store områder, som fjell- dal- eller strandområder, men området kan også bestå av mindre deler eller lokaliteter, som sedimentlag, fossiler eller jettegryter.  I motsetning til naturreservat er det ingen hjemmel for totalfredning av geotopvernområder. Det åpnes likevel for at det kan gis bestemmelser som regulerer, eventuelt forbyr, virksomhet som kan påvirke eller forstyrre floraen eller faunaen, eller som kan skade geologiske eller geomorfologiske fenomener eller prosesser."
+      },
+      "infoUrl": "https://no.wikipedia.org/wiki/Geotopvern"
     },
     {
       "kode": "VV-VF-MAV",
-      "kodeautor": "MAV",
+      "kodeautor": "MarintVerneomraade",
       "tittel": {
-        "nob": "Marint verneområde (naturmangfoldloven)"
-      }
+        "nob": "Marint verneområde (naturmangfoldloven)",
+        "url": "Marint"
+      },
+      "ingress": {
+        "nob": "Marint vernområde er områdevern i sjø, som sikter mot å redusere belastningen på en eller flere arter i havområdet som er vernet. Dette er en middels streng verneform. I Norge er dette en form for områdevern som er mindre streng enn f.eks naturreservat eller biotopvernområde, men kan være noe strengere vernet et landskapsvernområde eller en nasjonalpark hva angår grad av inngrepsforbud."
+      },
+      "infoUrl": "https://no.wikipedia.org/wiki/Marint_verneområde"
     },
     {
-      "kode": "VV-VF-BV",
-      "kodeautor": "BV",
+      "kode": "VV-VF-AV-BV",
+      "kodeautor": "Biotopvern",
       "tittel": {
         "nob": "Biotopvern"
-      }
+      },
+      "ingress": {
+        "nob": "Biotopvern (også kjent som dyre-/fugle-/plantefredningsområde) er et områdevern (i Norge i henhold til lov om naturvern av 19. juni 1970, men internasjonalt kan dette variere).  Hensikten med biotopvern er å sikre områder som har vesentlig betydning for planter eller dyr som blir fredet i medhold av samme bestemmelser som artsfredning. Dette skjer gjennom å forby utbygging, anlegg, forurensninger og andre inngrep for å bevare livsmiljøt i fredningsområdet. Biotopvernet som har et arts-formål skiller seg normalt fra generelt artsvern ved at biotopvernet sikter inn mot biotopene i et helt avgrenset, geografisk område."
+      },
+      "infoUrl": "https://no.wikipedia.org/wiki/Biotopvern"
     }
   ]
 }
