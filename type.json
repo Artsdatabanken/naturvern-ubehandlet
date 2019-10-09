@@ -12,7 +12,7 @@
   "VV-FM": {
     "farge": "hsl(210, 20%, 60%)",
     "foreldre": ["VV"],
-    "tittel": { "nob": "Forvaltnignsmyndighet" }
+    "tittel": { "nob": "Forvaltningsmyndighet" }
   },
   "VV-VP": {
     "farge": "hsl(210, 20%, 60%)",
