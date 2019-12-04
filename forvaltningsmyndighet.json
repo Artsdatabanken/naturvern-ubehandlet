@@ -3,51 +3,50 @@
   "items": [
     {
       "kode": "VV-FM-FM",
-      "kodeautor": 1,
-      "definisjon": "./forvaltningsinstans.json",
-      "navn": {
+      "kodeautor": "Fylkesmann",
+      "tittel": {
         "nob": "Forvaltes av fylkesmann"
       }
     },
     {
       "kode": "VV-FM-KO",
-      "kodeautor": 2,
-      "navn": {
+      "kodeautor": "Kommune",
+      "tittel": {
         "nob": "Forvaltes av kommune"
       }
     },
     {
       "kode": "VV-FM-NP",
-      "kodeautor": 3,
-      "navn": {
+      "kodeautor": "Nasjonalparkstyre",
+      "tittel": {
         "nob": "Forvaltes av nasjonalparkstyre"
       }
     },
     {
       "kode": "VV-FM-VO",
-      "kodeautor": 4,
-      "navn": {
+      "kodeautor": "Verneomraadestyre",
+      "tittel": {
         "nob": "Forvaltes av verneområdestyre"
       }
     },
     {
       "kode": "VV-FM-FK",
-      "kodeautor": 6,
-      "navn": {
+      "kodeautor": "FylkesmannOgKommune",
+      "tittel": {
         "nob": "Forvaltes av fylkesmann og kommune"
       }
     },
     {
       "kode": "VV-FM-SM",
-      "kodeautor": 5,
-      "navn": {
+      "kodeautor": "Sysselmannen",
+      "tittel": {
         "nob": "Forvaltes av sysselmannen"
       }
     },
     {
       "kode": "VV-FM-IV",
-      "kodeautor": 7,
-      "navn": {
+      "kodeautor": "IkkeVurdert",
+      "tittel": {
         "nob": "Ikke vurdert"
       }
     }

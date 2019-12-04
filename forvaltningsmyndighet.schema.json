@@ -19,17 +19,13 @@
           "tittel": {
             "type": "object",
             "properties": {
-              "nb": {
+              "nob": {
                 "type": "string"
               }
             }
           }
         },
-        "required": [
-          "kode",
-          "kodeautor",
-          "tittel"
-        ]
+        "required": ["kode", "kodeautor", "navn"]
       }
     }
   }

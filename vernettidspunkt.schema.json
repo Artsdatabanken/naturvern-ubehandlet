@@ -13,7 +13,7 @@
           "kode": {
             "type": "string"
           },
-          "navn": {
+          "tittel": {
             "type": "object",
             "properties": {
               "nob": {
@@ -22,10 +22,7 @@
             }
           }
         },
-        "required": [
-          "kode",
-          "navn"
-        ]
+        "required": ["kode", "navn"]
       }
     }
   }

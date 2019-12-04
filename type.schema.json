@@ -13,7 +13,7 @@
           "kode": {
             "type": "string"
           },
-          "navn": {
+          "tittel": {
             "type": "object",
             "properties": {
               "nob": {
@@ -45,14 +45,7 @@
             "type": "string"
           }
         },
-        "required": [
-          "kode",
-          "navn",
-          "ingress",
-          "infoUrl",
-          "definisjon",
-          "type"
-        ]
+        "required": ["kode", "navn", "ingress", "infoUrl", "definisjon", "type"]
       }
     }
   }

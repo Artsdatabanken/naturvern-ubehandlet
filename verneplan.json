@@ -2,52 +2,56 @@
   "$schema": "https://raw.githubusercontent.com/Artsdatabanken/naturvern-data/master/verneplan.schema.json#",
   "items": [
     {
-      "kodeautor": "1",
+      "kodeautor": "VerneplanNasjonalpark",
       "kode": "VV-VP-NP",
-      "navn": {
+      "tittel": {
         "nob": "Verneplan for nasjonalparker og andre større verneområder"
       }
     },
     {
-      "kodeautor": "2",
+      "kodeautor": "VerneplanVatmark",
       "kode": "VV-VP-VV",
-      "navn": { "nob": "Verneplan for våtmark" }
+      "tittel": { "nob": "Verneplan for våtmark" }
     },
     {
-      "kodeautor": "3",
+      "kodeautor": "VerneplanMyr",
       "kode": "VV-VP-VM",
-      "navn": { "nob": "Verneplan for myr" }
+      "tittel": { "nob": "Verneplan for myr" }
     },
     {
-      "kodeautor": "4",
+      "kodeautor": "VerneplanLoevskog",
       "kode": "VV-VP-RL",
-      "navn": { "nob": "Verneplan for edelløvskog/rike løvskoger" }
+      "tittel": { "nob": "Verneplan for edelløvskog/rike løvskoger" }
     },
     {
-      "kodeautor": "5",
+      "kodeautor": "VerneplanSjoefugl",
       "kode": "VV-VP-SF",
-      "navn": { "nob": "Verneplan for sjøfugl" }
+      "tittel": { "nob": "Verneplan for sjøfugl" }
     },
-    { "kodeautor": "6", "kode": "VV-VP-SV", "navn": { "nob": "Skogvern" } },
     {
-      "kodeautor": "7",
+      "kodeautor": "Skogvern",
+      "kode": "VV-VP-SV",
+      "tittel": { "nob": "Skogvern" }
+    },
+    {
+      "kodeautor": "MarinVerneplan",
       "kode": "VV-VP-MV",
-      "navn": { "nob": "Marin verneplan" }
+      "tittel": { "nob": "Marin verneplan" }
     },
     {
-      "kodeautor": "8",
+      "kodeautor": "AnnetVern",
       "kode": "VV-VP-AV",
-      "navn": { "nob": "Annet vern eller verneplan" }
+      "tittel": { "nob": "Annet vern eller verneplan" }
     },
     {
-      "kodeautor": "9",
+      "kodeautor": "IkkeVurdert",
       "kode": "VV-VP-IV",
-      "navn": { "nob": "Ikke vurdert" }
+      "tittel": { "nob": "Ikke vurdert" }
     },
     {
-      "kodeautor": "10",
+      "kodeautor": "Kvartaergeologi",
       "kode": "VV-VP-KG",
-      "navn": { "nob": "Kvartærgeologi" }
+      "tittel": { "nob": "Kvartærgeologi" }
     }
   ]
 }
