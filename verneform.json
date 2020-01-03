@@ -200,6 +200,18 @@
       "infoUrl": "https://no.wikipedia.org/wiki/Biotopvern"
     },
     {
+      "kode": "VV-VF-NR-JM",
+      "kodeautor": "NaturreservatJanMayen",
+      "tittel": {
+        "nob": "Naturreservat (Jan Mayen)",
+        "url": "Jan_Mayen"
+      },
+      "beskrivelse": {
+        "nob": "En nasjonalpark er et større områdevern som en stat iverksetter for å ta vare på viktige naturverdier. Nasjonalparkene skal først og fremst begrense menneskelig virksomhet og utbygging, som en tilrettelegging for friluftsliv og ikke-motorisert ferdsel. Innenfor en nasjonalpark kan det derimot finnes delområder med strengere områdevern, for eksempel ett eller flere naturreservater, biotopvernområder eller naturminner. Jakt, camping og friluftsliv er som regel tillatt på bestemte vilkår i en nasjonalpark, men generelt gjelder det at man ikke skal forstyrre dyrelivet der unødig."
+      },
+      "infoUrl": "https://no.wikipedia.org/wiki/Nasjonalpark"
+    },
+    {
       "kode": "VV-VF-NR-S",
       "kodeautor": "NaturreservatSvalbard",
       "tittel": {
