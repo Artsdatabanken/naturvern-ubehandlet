@@ -77,6 +77,9 @@
     { "kode": "VV-VT-2016", "tittel": { "nb": "Vernet i 2016" } },
     { "kode": "VV-VT-2017", "tittel": { "nb": "Vernet i 2017" } },
     { "kode": "VV-VT-2018", "tittel": { "nb": "Vernet i 2018" } },
-    { "kode": "VV-VT-2019", "tittel": { "nb": "Vernet i 2019" } }
+    { "kode": "VV-VT-2019", "tittel": { "nb": "Vernet i 2019" } },
+    { "kode": "VV-VT-2020", "tittel": { "nb": "Vernet i 2020" } },
+    { "kode": "VV-VT-2021", "tittel": { "nb": "Vernet i 2021" } },
+    { "kode": "VV-VT-2022", "tittel": { "nb": "Vernet i 2022" } }
   ]
 }
