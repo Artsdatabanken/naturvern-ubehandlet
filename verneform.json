@@ -212,6 +212,18 @@
       "infoUrl": "https://no.wikipedia.org/wiki/Nasjonalpark"
     },
     {
+      "kode": "VV-VF-AV-BV-S",
+      "kodeautor": "BiotopvernSvalbard",
+      "tittel": {
+        "nob": "Biotopvern (Svalbardmiljøloven)",
+        "url": "Svalbard"
+      },
+      "beskrivelse": {
+        "nob": ""
+      },
+      "infoUrl": "https://no.wikipedia.org/wiki/Biotopvern"
+    },
+    {
       "kode": "VV-VF-NR-S",
       "kodeautor": "NaturreservatSvalbard",
       "tittel": {
@@ -256,6 +268,18 @@
       },
       "beskrivelse": {
         "nob": "Marint vernområde er områdevern i sjø, som sikter mot å redusere belastningen på en eller flere arter i havområdet som er vernet. Dette er en middels streng verneform. I Norge er dette en form for områdevern som er mindre streng enn f.eks naturreservat eller biotopvernområde, men kan være noe strengere vernet et landskapsvernområde eller en nasjonalpark hva angår grad av inngrepsforbud."
+      },
+      "infoUrl": "https://no.wikipedia.org/wiki/Marint_verneområde"
+    },
+    {
+      "kode": "VV-VF-AV-MAV",
+      "kodeautor": "MarintVerneomraadeAnnet",
+      "tittel": {
+        "nob": "Marint verneområde (Annet lovverk)",
+        "url": "Annet Vern"
+      },
+      "beskrivelse": {
+        "nob": "Marint vernområde er områdevern i sjø."
       },
       "infoUrl": "https://no.wikipedia.org/wiki/Marint_verneområde"
     },

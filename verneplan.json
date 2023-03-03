@@ -52,6 +52,11 @@
       "kodeautor": "Kvartaergeologi",
       "kode": "VV-VP-KG",
       "tittel": { "nob": "Kvartærgeologi" }
+    },
+    {
+      "kodeautor": "Fossiler",
+      "kode": "VV-VP-FO",
+      "tittel": { "nob": "Fossiler" }
     }
   ]
 }
