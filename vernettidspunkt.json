@@ -80,6 +80,7 @@
     { "kode": "VV-VT-2019", "tittel": { "nb": "Vernet i 2019" } },
     { "kode": "VV-VT-2020", "tittel": { "nb": "Vernet i 2020" } },
     { "kode": "VV-VT-2021", "tittel": { "nb": "Vernet i 2021" } },
-    { "kode": "VV-VT-2022", "tittel": { "nb": "Vernet i 2022" } }
+    { "kode": "VV-VT-2022", "tittel": { "nb": "Vernet i 2022" } },
+    { "kode": "VV-VT-2023", "tittel": { "nb": "Vernet i 2023" } }
   ]
 }

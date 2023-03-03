@@ -37,10 +37,31 @@
       }
     },
     {
+      "kode": "VV-FM-SK",
+      "kodeautor": "StatsforvalterOgKommune",
+      "tittel": {
+        "nob": "Forvaltes av Statsforvalter og Kommune"
+      }
+    },
+    {
+      "kode": "VV-FM-SF",
+      "kodeautor": "Statsforvalter",
+      "tittel": {
+        "nob": "Forvaltes av Statsforvalter"
+      }
+    },
+    {
       "kode": "VV-FM-SM",
       "kodeautor": "Sysselmannen",
       "tittel": {
         "nob": "Forvaltes av sysselmannen"
+      }
+    },
+    {
+      "kode": "VV-FM-SY",
+      "kodeautor": "Sysselmesteren",
+      "tittel": {
+        "nob": "Forvaltes av Sysselmesteren"
       }
     },
     {
