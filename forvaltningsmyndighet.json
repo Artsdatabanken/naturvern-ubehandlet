@@ -50,6 +50,12 @@
         "nob": "Forvaltes av Statsforvalter"
       }
     },
+      "kode": "VV-FM-ST",
+      "kodeautor": "StatsforvalterOgTilsynsutvalg",
+      "tittel": {
+        "nob": "Forvaltes av Statsforvalter og tilsynsutvalg"
+      }
+    },
     {
       "kode": "VV-FM-SM",
       "kodeautor": "Sysselmannen",
